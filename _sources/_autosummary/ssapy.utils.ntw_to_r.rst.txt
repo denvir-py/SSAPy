@@ -1,0 +1,6 @@
+ssapy.utils.ntw\_to\_r
+======================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: ntw_to_r

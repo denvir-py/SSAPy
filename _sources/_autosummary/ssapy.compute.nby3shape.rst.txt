@@ -1,0 +1,6 @@
+ssapy.compute.nby3shape
+=======================
+
+.. currentmodule:: ssapy.compute
+
+.. autofunction:: nby3shape

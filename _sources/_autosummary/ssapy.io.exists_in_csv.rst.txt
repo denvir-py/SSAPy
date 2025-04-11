@@ -1,0 +1,6 @@
+ssapy.io.exists\_in\_csv
+========================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: exists_in_csv

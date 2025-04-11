@@ -1,0 +1,6 @@
+ssapy.io.makedf
+===============
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: makedf

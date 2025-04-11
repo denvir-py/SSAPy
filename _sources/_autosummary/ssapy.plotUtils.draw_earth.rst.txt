@@ -1,0 +1,6 @@
+ssapy.plotUtils.draw\_earth
+===========================
+
+.. currentmodule:: ssapy.plotUtils
+
+.. autofunction:: draw_earth

@@ -1,0 +1,6 @@
+ssapy.utils.v\_from\_r
+======================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: v_from_r

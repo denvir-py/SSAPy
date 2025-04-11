@@ -1,0 +1,6 @@
+ssapy.compute.radecRate
+=======================
+
+.. currentmodule:: ssapy.compute
+
+.. autofunction:: radecRate

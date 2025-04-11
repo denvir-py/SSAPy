@@ -1,0 +1,6 @@
+ssapy.utils.get\_angle
+======================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: get_angle

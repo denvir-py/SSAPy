@@ -1,0 +1,26 @@
+ssapy.accel.AccelSum
+====================
+
+.. currentmodule:: ssapy.accel
+
+.. autoclass:: AccelSum
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~AccelSum.__init__
+   
+   
+
+   
+   
+   

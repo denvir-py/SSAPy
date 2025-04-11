@@ -1,0 +1,6 @@
+ssapy.plotUtils.save\_plot
+==========================
+
+.. currentmodule:: ssapy.plotUtils
+
+.. autofunction:: save_plot

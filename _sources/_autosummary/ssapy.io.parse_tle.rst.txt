@@ -1,0 +1,6 @@
+ssapy.io.parse\_tle
+===================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: parse_tle

@@ -1,0 +1,6 @@
+ssapy.io.append\_csv\_on\_disk
+==============================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: append_csv_on_disk

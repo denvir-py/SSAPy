@@ -1,0 +1,26 @@
+ssapy.body.MoonOrientation
+==========================
+
+.. currentmodule:: ssapy.body
+
+.. autoclass:: MoonOrientation
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~MoonOrientation.__init__
+   
+   
+
+   
+   
+   

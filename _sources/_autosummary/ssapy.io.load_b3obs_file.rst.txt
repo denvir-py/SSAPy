@@ -1,0 +1,6 @@
+ssapy.io.load\_b3obs\_file
+==========================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: load_b3obs_file

@@ -1,0 +1,6 @@
+ssapy.io.save\_csv\_line
+========================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: save_csv_line

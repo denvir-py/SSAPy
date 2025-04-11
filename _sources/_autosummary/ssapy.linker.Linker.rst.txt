@@ -1,0 +1,32 @@
+ssapy.linker.Linker
+===================
+
+.. currentmodule:: ssapy.linker
+
+.. autoclass:: Linker
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~Linker.__init__
+      ~Linker.sample
+      ~Linker.sample_Porbit_conditional_dist
+      ~Linker.sample_orbit_selectors_from_data_conditional
+      ~Linker.save_step
+      ~Linker.update_orbit_parameters
+      ~Linker.update_params_using_carlin_chib
+   
+   
+
+   
+   
+   

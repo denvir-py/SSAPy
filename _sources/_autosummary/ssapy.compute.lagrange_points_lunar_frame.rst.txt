@@ -1,0 +1,6 @@
+ssapy.compute.lagrange\_points\_lunar\_frame
+============================================
+
+.. currentmodule:: ssapy.compute
+
+.. autofunction:: lagrange_points_lunar_frame

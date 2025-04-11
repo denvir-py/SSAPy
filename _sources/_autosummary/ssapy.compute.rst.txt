@@ -1,0 +1,70 @@
+﻿ssapy.compute
+=============
+
+.. automodule:: ssapy.compute
+  
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: class_template.rst
+   
+      HashableArrayContainer
+   
+   
+
+   
+   
+
+   .. inheritance-diagram:: ssapy.compute
+      :caption: Inheritance Relationship
+      :parts: -1
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :toctree:
+   
+      M_v_lambertian
+      altaz
+      calc_M_v
+      calc_gamma
+      calculate_orbital_elements
+      dircos
+      earthShadowCoords
+      earth_shine
+      find_passes
+      groundTrack
+      lagrange_points_lunar_frame
+      lunar_lagrange_points
+      lunar_lagrange_points_circular
+      moon_normal_vector
+      moon_shine
+      nby3shape
+      quickAltAz
+      radec
+      radecRate
+      radecRateObsToRV
+      refine_pass
+      rv
+      rvObsToRaDecRate
+      sun_shine
+   
+   
+
+   
+   
+   
+
+
+

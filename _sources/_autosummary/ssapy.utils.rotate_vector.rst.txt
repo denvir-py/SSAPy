@@ -1,0 +1,6 @@
+ssapy.utils.rotate\_vector
+==========================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: rotate_vector

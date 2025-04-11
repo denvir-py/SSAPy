@@ -1,0 +1,27 @@
+ssapy.rvsampler.LMOptimizer
+===========================
+
+.. currentmodule:: ssapy.rvsampler
+
+.. autoclass:: LMOptimizer
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~LMOptimizer.__init__
+      ~LMOptimizer.optimize
+   
+   
+
+   
+   
+   

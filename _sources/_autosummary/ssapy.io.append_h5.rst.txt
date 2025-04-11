@@ -1,0 +1,6 @@
+ssapy.io.append\_h5
+===================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: append_h5

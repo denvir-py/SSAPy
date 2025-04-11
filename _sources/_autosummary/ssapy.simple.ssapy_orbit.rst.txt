@@ -1,0 +1,6 @@
+ssapy.simple.ssapy\_orbit
+=========================
+
+.. currentmodule:: ssapy.simple
+
+.. autofunction:: ssapy_orbit

@@ -1,0 +1,6 @@
+ssapy.utils.xyz\_to\_tp
+=======================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: xyz_to_tp

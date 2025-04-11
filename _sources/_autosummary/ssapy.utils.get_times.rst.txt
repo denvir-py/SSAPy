@@ -1,0 +1,6 @@
+ssapy.utils.get\_times
+======================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: get_times

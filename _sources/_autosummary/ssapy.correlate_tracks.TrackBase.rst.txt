@@ -1,0 +1,36 @@
+ssapy.correlate\_tracks.TrackBase
+=================================
+
+.. currentmodule:: ssapy.correlate_tracks
+
+.. autoclass:: TrackBase
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~TrackBase.__init__
+      ~TrackBase.gate
+      ~TrackBase.predict
+      ~TrackBase.propagaterdz
+      ~TrackBase.update
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~TrackBase.lnprob
+   
+   

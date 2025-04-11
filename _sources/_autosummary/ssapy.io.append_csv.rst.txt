@@ -1,0 +1,6 @@
+ssapy.io.append\_csv
+====================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: append_csv

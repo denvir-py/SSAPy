@@ -1,0 +1,26 @@
+ssapy.propagator.RKPropagator
+=============================
+
+.. currentmodule:: ssapy.propagator
+
+.. autoclass:: RKPropagator
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~RKPropagator.__init__
+   
+   
+
+   
+   
+   

@@ -1,0 +1,6 @@
+ssapy.utils.inert2rot
+=====================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: inert2rot

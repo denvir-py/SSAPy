@@ -1,0 +1,6 @@
+ssapy.plotUtils.format\_date\_axis
+==================================
+
+.. currentmodule:: ssapy.plotUtils
+
+.. autofunction:: format_date_axis

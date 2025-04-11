@@ -1,0 +1,6 @@
+<map id="inheritancee3cef0e57d" name="inheritancee3cef0e57d">
+<area shape="rect" id="node1" href="ssapy.accel.Accel.html#ssapy.accel.Accel" target="_top" title="Base class for accelerations." alt="" coords="63,55,158,80"/>
+<area shape="rect" id="node2" href="ssapy.gravity.AccelHarmonic.html#ssapy.gravity.AccelHarmonic" target="_top" title="Acceleration due to a harmonic potential." alt="" coords="265,29,433,55"/>
+<area shape="rect" id="node3" href="ssapy.gravity.AccelThirdBody.html#ssapy.gravity.AccelThirdBody" target="_top" title="Acceleration due to a third body." alt="" coords="264,79,435,104"/>
+<area shape="rect" id="node4" href="ssapy.gravity.HarmonicCoefficients.html#ssapy.gravity.HarmonicCoefficients" target="_top" title="Class to hold coefficients for a spherical harmonic expansion of a" alt="" coords="5,5,216,31"/>
+</map>

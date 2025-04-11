@@ -1,0 +1,70 @@
+﻿ssapy.correlate\_tracks
+=======================
+
+.. automodule:: ssapy.correlate_tracks
+  
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: class_template.rst
+   
+      CircVelocityPrior
+      GaussPrior
+      Hypothesis
+      MHT
+      Track
+      TrackBase
+      TrackGauss
+      VolumeDistancePrior
+      ZeroRadialVelocityPrior
+   
+   
+
+   
+   
+
+   .. inheritance-diagram:: ssapy.correlate_tracks
+      :caption: Inheritance Relationship
+      :parts: -1
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :toctree:
+   
+      combinatoric_lnprior
+      data_for_satellite
+      fit_arc
+      fit_arc_blind
+      fit_arc_blind_via_track
+      fit_arc_with_gaussian_prior
+      iterate_mht
+      make_optimizer
+      make_param_guess
+      orbit_to_param
+      param_to_orbit
+      radeczn
+      summarize_tracklet
+      summarize_tracklets
+      time_ordered_satIDs
+      wrap_angle_difference
+   
+   
+
+   
+   
+   
+
+
+

@@ -1,0 +1,6 @@
+ssapy.utils.xyz\_to\_lb
+=======================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: xyz_to_lb

@@ -1,0 +1,26 @@
+ssapy.body.SunPosition
+======================
+
+.. currentmodule:: ssapy.body
+
+.. autoclass:: SunPosition
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~SunPosition.__init__
+   
+   
+
+   
+   
+   

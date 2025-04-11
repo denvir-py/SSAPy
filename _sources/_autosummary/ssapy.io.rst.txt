@@ -1,0 +1,81 @@
+﻿ssapy.io
+========
+
+.. automodule:: ssapy.io
+  
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :toctree:
+   
+      append_csv
+      append_csv_on_disk
+      append_dict_to_csv
+      append_h5
+      b3obs2pos
+      combine_h5
+      exists
+      exists_in_csv
+      exists_in_csv_old
+      file_exists_extension_agnostic
+      get_all_files_recursive
+      get_memory_usage
+      get_tel_pos_itrf_to_gcrs
+      guess_csv_delimiter
+      h5_key_exists
+      h5_keys
+      h5_root_keys
+      listdir
+      load_b3obs_file
+      load_np
+      load_pickle
+      make_tle
+      makedf
+      merge_dicts
+      mkdir
+      overwrite_h5
+      parseB3
+      parseB3Line
+      parse_overpunched
+      parse_tle
+      pd_flatten
+      pdstr_to_arrays
+      read_csv
+      read_csv_header
+      read_h5
+      read_h5_all
+      read_tle
+      read_tle_catalog
+      rmdir
+      rmfile
+      save_csv
+      save_csv_array_to_line
+      save_csv_header
+      save_csv_line
+      save_h5
+      save_np
+      save_pickle
+      str_to_array
+   
+   
+
+   
+   
+   
+
+
+

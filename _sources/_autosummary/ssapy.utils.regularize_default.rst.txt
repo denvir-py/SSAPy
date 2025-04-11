@@ -1,0 +1,6 @@
+ssapy.utils.regularize\_default
+===============================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: regularize_default

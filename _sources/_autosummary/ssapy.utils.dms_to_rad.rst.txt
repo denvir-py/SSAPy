@@ -1,0 +1,6 @@
+ssapy.utils.dms\_to\_rad
+========================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: dms_to_rad

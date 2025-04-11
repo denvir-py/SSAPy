@@ -1,0 +1,6 @@
+ssapy.body.get\_body
+====================
+
+.. currentmodule:: ssapy.body
+
+.. autofunction:: get_body

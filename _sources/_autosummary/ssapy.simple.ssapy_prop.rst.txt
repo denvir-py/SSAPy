@@ -1,0 +1,6 @@
+ssapy.simple.ssapy\_prop
+========================
+
+.. currentmodule:: ssapy.simple
+
+.. autofunction:: ssapy_prop

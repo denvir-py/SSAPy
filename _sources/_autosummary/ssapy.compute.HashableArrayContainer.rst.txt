@@ -1,0 +1,26 @@
+ssapy.compute.HashableArrayContainer
+====================================
+
+.. currentmodule:: ssapy.compute
+
+.. autoclass:: HashableArrayContainer
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~HashableArrayContainer.__init__
+   
+   
+
+   
+   
+   

@@ -1,0 +1,6 @@
+ssapy.io.exists
+===============
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: exists

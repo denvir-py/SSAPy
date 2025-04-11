@@ -1,0 +1,6 @@
+ssapy.utils.tp\_to\_lb
+======================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: tp_to_lb

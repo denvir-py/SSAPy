@@ -1,0 +1,6 @@
+ssapy.utils.rightasension2hourangle
+===================================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: rightasension2hourangle

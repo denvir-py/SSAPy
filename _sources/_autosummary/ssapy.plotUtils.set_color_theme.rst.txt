@@ -1,0 +1,6 @@
+ssapy.plotUtils.set\_color\_theme
+=================================
+
+.. currentmodule:: ssapy.plotUtils
+
+.. autofunction:: set_color_theme

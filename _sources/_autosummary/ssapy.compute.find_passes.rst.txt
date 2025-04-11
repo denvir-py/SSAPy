@@ -1,0 +1,6 @@
+ssapy.compute.find\_passes
+==========================
+
+.. currentmodule:: ssapy.compute
+
+.. autofunction:: find_passes

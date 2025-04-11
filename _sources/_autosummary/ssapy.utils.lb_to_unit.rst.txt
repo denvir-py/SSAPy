@@ -1,0 +1,6 @@
+ssapy.utils.lb\_to\_unit
+========================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: lb_to_unit

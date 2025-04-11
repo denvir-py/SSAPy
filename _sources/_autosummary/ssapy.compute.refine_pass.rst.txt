@@ -1,0 +1,6 @@
+ssapy.compute.refine\_pass
+==========================
+
+.. currentmodule:: ssapy.compute
+
+.. autofunction:: refine_pass

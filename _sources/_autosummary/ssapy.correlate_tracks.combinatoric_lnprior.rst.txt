@@ -1,0 +1,6 @@
+ssapy.correlate\_tracks.combinatoric\_lnprior
+=============================================
+
+.. currentmodule:: ssapy.correlate_tracks
+
+.. autofunction:: combinatoric_lnprior

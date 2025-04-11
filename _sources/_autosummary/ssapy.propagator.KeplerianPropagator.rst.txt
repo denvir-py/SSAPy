@@ -1,0 +1,26 @@
+ssapy.propagator.KeplerianPropagator
+====================================
+
+.. currentmodule:: ssapy.propagator
+
+.. autoclass:: KeplerianPropagator
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~KeplerianPropagator.__init__
+   
+   
+
+   
+   
+   

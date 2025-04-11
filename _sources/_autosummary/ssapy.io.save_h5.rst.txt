@@ -1,0 +1,6 @@
+ssapy.io.save\_h5
+=================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: save_h5

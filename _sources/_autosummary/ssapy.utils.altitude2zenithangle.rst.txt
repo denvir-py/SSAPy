@@ -1,0 +1,6 @@
+ssapy.utils.altitude2zenithangle
+================================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: altitude2zenithangle

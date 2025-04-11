@@ -1,0 +1,6 @@
+ssapy.compute.calc\_M\_v
+========================
+
+.. currentmodule:: ssapy.compute
+
+.. autofunction:: calc_M_v

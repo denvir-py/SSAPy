@@ -1,0 +1,6 @@
+ssapy.io.parse\_overpunched
+===========================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: parse_overpunched

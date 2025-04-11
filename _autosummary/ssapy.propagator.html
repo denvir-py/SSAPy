@@ -1,0 +1,214 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="../">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ssapy.propagator &mdash; SSAPy  documentation</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css?v=e59714d7" />
+      <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+      <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=eafc0fe6" />
+
+  
+    <link rel="shortcut icon" href="../_static/ssapy_logo.ico"/>
+      <script src="../_static/jquery.js?v=5d32c60e"></script>
+      <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="../_static/documentation_options.js?v=5929fcd5"></script>
+      <script src="../_static/doctools.js?v=888ff710"></script>
+      <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+      <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="ssapy.propagator.KeplerianPropagator" href="ssapy.propagator.KeplerianPropagator.html" />
+    <link rel="prev" title="ssapy.plotUtils.set_color_theme" href="ssapy.plotUtils.set_color_theme.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../index.html">
+            
+              <img src="../_static/ssapy_logo.svg" class="logo" alt="Logo"/>
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Basics</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../installation.html">Getting Started</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../examples.html">SSAPy by Example</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../benchmarks.html">SSAPy Benchmarks</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../concepts.html">SSAPy Concepts</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contribution_guide.html">Contribution Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../references.html">References</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">API DOCS</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../api.html">API Reference Guide</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="ssapy.accel.html">ssapy.accel</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ssapy.body.html">ssapy.body</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ssapy.compute.html">ssapy.compute</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ssapy.constants.html">ssapy.constants</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ssapy.correlate_tracks.html">ssapy.correlate_tracks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ssapy.ellipsoid.html">ssapy.ellipsoid</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ssapy.gravity.html">ssapy.gravity</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ssapy.io.html">ssapy.io</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ssapy.linker.html">ssapy.linker</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ssapy.orbit_solver.html">ssapy.orbit_solver</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ssapy.orbit.html">ssapy.orbit</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ssapy.particles.html">ssapy.particles</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ssapy.plotUtils.html">ssapy.plotUtils</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">ssapy.propagator</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="ssapy.propagator.KeplerianPropagator.html">ssapy.propagator.KeplerianPropagator</a></li>
+<li class="toctree-l3"><a class="reference internal" href="ssapy.propagator.Propagator.html">ssapy.propagator.Propagator</a></li>
+<li class="toctree-l3"><a class="reference internal" href="ssapy.propagator.RK4Propagator.html">ssapy.propagator.RK4Propagator</a></li>
+<li class="toctree-l3"><a class="reference internal" href="ssapy.propagator.RK78Propagator.html">ssapy.propagator.RK78Propagator</a></li>
+<li class="toctree-l3"><a class="reference internal" href="ssapy.propagator.RK8Propagator.html">ssapy.propagator.RK8Propagator</a></li>
+<li class="toctree-l3"><a class="reference internal" href="ssapy.propagator.RKPropagator.html">ssapy.propagator.RKPropagator</a></li>
+<li class="toctree-l3"><a class="reference internal" href="ssapy.propagator.SGP4Propagator.html">ssapy.propagator.SGP4Propagator</a></li>
+<li class="toctree-l3"><a class="reference internal" href="ssapy.propagator.SciPyPropagator.html">ssapy.propagator.SciPyPropagator</a></li>
+<li class="toctree-l3"><a class="reference internal" href="ssapy.propagator.SeriesPropagator.html">ssapy.propagator.SeriesPropagator</a></li>
+<li class="toctree-l3"><a class="reference internal" href="ssapy.propagator.default_numerical.html">ssapy.propagator.default_numerical</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="ssapy.rvsampler.html">ssapy.rvsampler</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ssapy.simple.html">ssapy.simple</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ssapy.utils.html">ssapy.utils</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">SSAPy</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home" aria-label="Home"></a></li>
+          <li class="breadcrumb-item"><a href="../api.html">API Reference Guide</a></li>
+      <li class="breadcrumb-item active">ssapy.propagator</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/_autosummary/ssapy.propagator.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="ssapy-propagator">
+<h1>ssapy.propagator<a class="headerlink" href="#ssapy-propagator" title="Link to this heading"></a></h1>
+<p id="module-ssapy.propagator">Classes for propagating orbits.</p>
+<p class="rubric">Classes</p>
+<table class="autosummary longtable docutils align-default">
+<tbody>
+<tr class="row-odd"><td><p><a class="reference internal" href="ssapy.propagator.KeplerianPropagator.html#ssapy.propagator.KeplerianPropagator" title="ssapy.propagator.KeplerianPropagator"><code class="xref py py-obj docutils literal notranslate"><span class="pre">KeplerianPropagator</span></code></a>()</p></td>
+<td><p>A basic Keplerian propagator for finding the position and velocity of an orbiting object at some future or past time.</p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="ssapy.propagator.Propagator.html#ssapy.propagator.Propagator" title="ssapy.propagator.Propagator"><code class="xref py py-obj docutils literal notranslate"><span class="pre">Propagator</span></code></a>()</p></td>
+<td><p>Abstract base class for orbit propagators.</p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="ssapy.propagator.RK4Propagator.html#ssapy.propagator.RK4Propagator" title="ssapy.propagator.RK4Propagator"><code class="xref py py-obj docutils literal notranslate"><span class="pre">RK4Propagator</span></code></a>(accel, h)</p></td>
+<td><p>Runge-Kutta 4th order numerical integrator.</p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="ssapy.propagator.RK78Propagator.html#ssapy.propagator.RK78Propagator" title="ssapy.propagator.RK78Propagator"><code class="xref py py-obj docutils literal notranslate"><span class="pre">RK78Propagator</span></code></a>(accel, h[, tol])</p></td>
+<td><p>Runge-Kutta 8th order numerical integrator with adaptive step size computed from embedded 7th order integrator error estimate.</p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="ssapy.propagator.RK8Propagator.html#ssapy.propagator.RK8Propagator" title="ssapy.propagator.RK8Propagator"><code class="xref py py-obj docutils literal notranslate"><span class="pre">RK8Propagator</span></code></a>(accel, h)</p></td>
+<td><p>Runge-Kutta 8th order numerical integrator.</p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="ssapy.propagator.RKPropagator.html#ssapy.propagator.RKPropagator" title="ssapy.propagator.RKPropagator"><code class="xref py py-obj docutils literal notranslate"><span class="pre">RKPropagator</span></code></a>()</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="ssapy.propagator.SGP4Propagator.html#ssapy.propagator.SGP4Propagator" title="ssapy.propagator.SGP4Propagator"><code class="xref py py-obj docutils literal notranslate"><span class="pre">SGP4Propagator</span></code></a>([t, truncate])</p></td>
+<td><p>Propagate using simplified perturbation model SGP4.</p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="ssapy.propagator.SciPyPropagator.html#ssapy.propagator.SciPyPropagator" title="ssapy.propagator.SciPyPropagator"><code class="xref py py-obj docutils literal notranslate"><span class="pre">SciPyPropagator</span></code></a>(accel[, ode_kwargs])</p></td>
+<td><p>Propagate using the scipy.integrate.solve_ivp ODE solver.</p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="ssapy.propagator.SeriesPropagator.html#ssapy.propagator.SeriesPropagator" title="ssapy.propagator.SeriesPropagator"><code class="xref py py-obj docutils literal notranslate"><span class="pre">SeriesPropagator</span></code></a>([order])</p></td>
+<td><p>Propagate using Taylor series expansion of Keplerian motion.</p></td>
+</tr>
+</tbody>
+</table>
+<figure class="align-default" id="id1">
+<div class="graphviz"><img src="../_images/inheritance-d9095d600677cbf9e8ef7e535e780dec8352928c.png" alt="Inheritance diagram of ssapy.propagator" usemap="#inheritance084681b652" class="inheritance graphviz" /></div>
+<map id="inheritance084681b652" name="inheritance084681b652">
+<area shape="rect" id="node1" href="https://docs.python.org/3/library/abc.html#abc.ABC" target="_top" title="Helper class that provides a standard way to create an ABC using" alt="" coords="4,57,56,75"/>
+<area shape="rect" id="node3" href="ssapy.propagator.Propagator.html#ssapy.propagator.Propagator" target="_top" title="Abstract base class for orbit propagators." alt="" coords="90,75,211,93"/>
+<area shape="rect" id="node5" href="ssapy.propagator.RKPropagator.html#ssapy.propagator.RKPropagator" target="_top" title="propagator.RKPropagator" alt="" coords="261,21,395,39"/>
+<area shape="rect" id="node2" href="ssapy.propagator.KeplerianPropagator.html#ssapy.propagator.KeplerianPropagator" target="_top" title="A basic Keplerian propagator for finding the position and velocity of an" alt="" coords="245,57,410,75"/>
+<area shape="rect" id="node8" href="ssapy.propagator.SGP4Propagator.html#ssapy.propagator.SGP4Propagator" target="_top" title="Propagate using simplified perturbation model SGP4." alt="" coords="255,92,400,111"/>
+<area shape="rect" id="node9" href="ssapy.propagator.SciPyPropagator.html#ssapy.propagator.SciPyPropagator" target="_top" title="Propagate using the scipy.integrate.solve_ivp ODE solver." alt="" coords="255,128,401,146"/>
+<area shape="rect" id="node10" href="ssapy.propagator.SeriesPropagator.html#ssapy.propagator.SeriesPropagator" target="_top" title="Propagate using Taylor series expansion of Keplerian motion. &#160;This is" alt="" coords="253,164,402,182"/>
+<area shape="rect" id="node4" href="ssapy.propagator.RK4Propagator.html#ssapy.propagator.RK4Propagator" target="_top" title="Runge&#45;Kutta 4th order numerical integrator." alt="" coords="445,4,584,22"/>
+<area shape="rect" id="node7" href="ssapy.propagator.RK8Propagator.html#ssapy.propagator.RK8Propagator" target="_top" title="Runge&#45;Kutta 8th order numerical integrator." alt="" coords="445,39,584,58"/>
+<area shape="rect" id="node6" href="ssapy.propagator.RK78Propagator.html#ssapy.propagator.RK78Propagator" target="_top" title="Runge&#45;Kutta 8th order numerical integrator with adaptive step size" alt="" coords="619,39,764,58"/>
+</map><figcaption>
+<p><span class="caption-text">Inheritance Relationship</span><a class="headerlink" href="#id1" title="Link to this image"></a></p>
+</figcaption>
+</figure>
+<p class="rubric">Functions</p>
+<table class="autosummary longtable docutils align-default">
+<tbody>
+<tr class="row-odd"><td><p><a class="reference internal" href="ssapy.propagator.default_numerical.html#ssapy.propagator.default_numerical" title="ssapy.propagator.default_numerical"><code class="xref py py-obj docutils literal notranslate"><span class="pre">default_numerical</span></code></a>(*args[, cls, accel, ...])</p></td>
+<td><p>Construct a numerical propagator with sensible default acceleration.</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="ssapy.plotUtils.set_color_theme.html" class="btn btn-neutral float-left" title="ssapy.plotUtils.set_color_theme" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="ssapy.propagator.KeplerianPropagator.html" class="btn btn-neutral float-right" title="ssapy.propagator.KeplerianPropagator" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2018, Lawrence Livermore National Security, LLC.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

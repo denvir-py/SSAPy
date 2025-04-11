@@ -1,0 +1,29 @@
+ssapy.orbit\_solver.DanchickTwoPosOrbitSolver
+=============================================
+
+.. currentmodule:: ssapy.orbit_solver
+
+.. autoclass:: DanchickTwoPosOrbitSolver
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~DanchickTwoPosOrbitSolver.X
+      ~DanchickTwoPosOrbitSolver.__init__
+      ~DanchickTwoPosOrbitSolver.dXdg
+      ~DanchickTwoPosOrbitSolver.solve
+   
+   
+
+   
+   
+   
