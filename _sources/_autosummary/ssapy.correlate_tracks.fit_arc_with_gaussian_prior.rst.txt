@@ -1,0 +1,6 @@
+ssapy.correlate\_tracks.fit\_arc\_with\_gaussian\_prior
+=======================================================
+
+.. currentmodule:: ssapy.correlate_tracks
+
+.. autofunction:: fit_arc_with_gaussian_prior

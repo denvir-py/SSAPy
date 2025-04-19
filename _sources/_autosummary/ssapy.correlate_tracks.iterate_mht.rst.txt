@@ -1,0 +1,6 @@
+ssapy.correlate\_tracks.iterate\_mht
+====================================
+
+.. currentmodule:: ssapy.correlate_tracks
+
+.. autofunction:: iterate_mht

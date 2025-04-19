@@ -1,0 +1,6 @@
+ssapy.utils.dd\_to\_hms
+=======================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: dd_to_hms

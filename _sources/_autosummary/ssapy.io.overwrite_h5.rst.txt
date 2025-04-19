@@ -1,0 +1,6 @@
+ssapy.io.overwrite\_h5
+======================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: overwrite_h5

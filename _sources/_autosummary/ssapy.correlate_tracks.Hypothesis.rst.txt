@@ -1,0 +1,30 @@
+ssapy.correlate\_tracks.Hypothesis
+==================================
+
+.. currentmodule:: ssapy.correlate_tracks
+
+.. autoclass:: Hypothesis
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~Hypothesis.__init__
+      ~Hypothesis.addto
+      ~Hypothesis.difference
+      ~Hypothesis.ntracklet
+      ~Hypothesis.summarize
+   
+   
+
+   
+   
+   

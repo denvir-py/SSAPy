@@ -1,0 +1,6 @@
+ssapy.rvsampler.damper\_deriv
+=============================
+
+.. currentmodule:: ssapy.rvsampler
+
+.. autofunction:: damper_deriv

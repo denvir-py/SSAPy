@@ -1,0 +1,6 @@
+ssapy.simple.ssapy\_kwargs
+==========================
+
+.. currentmodule:: ssapy.simple
+
+.. autofunction:: ssapy_kwargs

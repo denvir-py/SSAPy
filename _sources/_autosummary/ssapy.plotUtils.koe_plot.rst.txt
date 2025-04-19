@@ -1,0 +1,6 @@
+ssapy.plotUtils.koe\_plot
+=========================
+
+.. currentmodule:: ssapy.plotUtils
+
+.. autofunction:: koe_plot

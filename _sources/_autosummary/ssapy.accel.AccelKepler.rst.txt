@@ -1,0 +1,26 @@
+ssapy.accel.AccelKepler
+=======================
+
+.. currentmodule:: ssapy.accel
+
+.. autoclass:: AccelKepler
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~AccelKepler.__init__
+   
+   
+
+   
+   
+   

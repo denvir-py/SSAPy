@@ -1,0 +1,6 @@
+ssapy.compute.earthShadowCoords
+===============================
+
+.. currentmodule:: ssapy.compute
+
+.. autofunction:: earthShadowCoords

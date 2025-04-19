@@ -1,0 +1,6 @@
+ssapy.plotUtils.draw\_moon
+==========================
+
+.. currentmodule:: ssapy.plotUtils
+
+.. autofunction:: draw_moon

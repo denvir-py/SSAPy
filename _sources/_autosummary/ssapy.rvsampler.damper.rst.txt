@@ -1,0 +1,6 @@
+ssapy.rvsampler.damper
+======================
+
+.. currentmodule:: ssapy.rvsampler
+
+.. autofunction:: damper

@@ -1,0 +1,6 @@
+ssapy.utils.gcrf\_to\_ecef\_bad
+===============================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: gcrf_to_ecef_bad

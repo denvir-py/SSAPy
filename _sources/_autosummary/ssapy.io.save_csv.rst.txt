@@ -1,0 +1,6 @@
+ssapy.io.save\_csv
+==================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: save_csv

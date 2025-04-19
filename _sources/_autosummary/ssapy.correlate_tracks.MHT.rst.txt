@@ -1,0 +1,32 @@
+ssapy.correlate\_tracks.MHT
+===========================
+
+.. currentmodule:: ssapy.correlate_tracks
+
+.. autoclass:: MHT
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~MHT.__init__
+      ~MHT.add_tracklet
+      ~MHT.flag_inconsistency
+      ~MHT.prune
+      ~MHT.prune_stale_hypotheses
+      ~MHT.prune_tracks
+      ~MHT.run
+   
+   
+
+   
+   
+   

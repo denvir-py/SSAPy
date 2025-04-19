@@ -1,0 +1,6 @@
+ssapy.plotUtils.check\_type
+===========================
+
+.. currentmodule:: ssapy.plotUtils
+
+.. autofunction:: check_type

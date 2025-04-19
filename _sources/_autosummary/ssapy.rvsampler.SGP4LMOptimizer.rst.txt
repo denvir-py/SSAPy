@@ -1,0 +1,27 @@
+ssapy.rvsampler.SGP4LMOptimizer
+===============================
+
+.. currentmodule:: ssapy.rvsampler
+
+.. autoclass:: SGP4LMOptimizer
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~SGP4LMOptimizer.__init__
+      ~SGP4LMOptimizer.optimize
+   
+   
+
+   
+   
+   

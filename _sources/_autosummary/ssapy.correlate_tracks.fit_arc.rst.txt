@@ -1,0 +1,6 @@
+ssapy.correlate\_tracks.fit\_arc
+================================
+
+.. currentmodule:: ssapy.correlate_tracks
+
+.. autofunction:: fit_arc

@@ -1,0 +1,6 @@
+ssapy.io.load\_pickle
+=====================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: load_pickle

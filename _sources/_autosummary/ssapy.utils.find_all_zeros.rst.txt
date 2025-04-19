@@ -1,0 +1,6 @@
+ssapy.utils.find\_all\_zeros
+============================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: find_all_zeros

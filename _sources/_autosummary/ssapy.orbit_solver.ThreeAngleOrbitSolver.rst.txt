@@ -1,0 +1,50 @@
+ssapy.orbit\_solver.ThreeAngleOrbitSolver
+=========================================
+
+.. currentmodule:: ssapy.orbit_solver
+
+.. autoclass:: ThreeAngleOrbitSolver
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~ThreeAngleOrbitSolver.__init__
+      ~ThreeAngleOrbitSolver.solve
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~ThreeAngleOrbitSolver.D
+      ~ThreeAngleOrbitSolver.D11
+      ~ThreeAngleOrbitSolver.D12
+      ~ThreeAngleOrbitSolver.D13
+      ~ThreeAngleOrbitSolver.D21
+      ~ThreeAngleOrbitSolver.D22
+      ~ThreeAngleOrbitSolver.D23
+      ~ThreeAngleOrbitSolver.D31
+      ~ThreeAngleOrbitSolver.D32
+      ~ThreeAngleOrbitSolver.D33
+      ~ThreeAngleOrbitSolver.d1
+      ~ThreeAngleOrbitSolver.d2
+      ~ThreeAngleOrbitSolver.d3
+      ~ThreeAngleOrbitSolver.t21
+      ~ThreeAngleOrbitSolver.t2131
+      ~ThreeAngleOrbitSolver.t31
+      ~ThreeAngleOrbitSolver.t32
+      ~ThreeAngleOrbitSolver.t3231
+   
+   

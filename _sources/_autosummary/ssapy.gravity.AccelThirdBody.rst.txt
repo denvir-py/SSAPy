@@ -1,0 +1,26 @@
+ssapy.gravity.AccelThirdBody
+============================
+
+.. currentmodule:: ssapy.gravity
+
+.. autoclass:: AccelThirdBody
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~AccelThirdBody.__init__
+   
+   
+
+   
+   
+   

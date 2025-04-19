@@ -1,0 +1,6 @@
+ssapy.simple.fourbody\_prop
+===========================
+
+.. currentmodule:: ssapy.simple
+
+.. autofunction:: fourbody_prop

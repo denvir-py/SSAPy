@@ -1,0 +1,6 @@
+ssapy.rvsampler.eq2kep
+======================
+
+.. currentmodule:: ssapy.rvsampler
+
+.. autofunction:: eq2kep

@@ -1,0 +1,6 @@
+ssapy.propagator.default\_numerical
+===================================
+
+.. currentmodule:: ssapy.propagator
+
+.. autofunction:: default_numerical

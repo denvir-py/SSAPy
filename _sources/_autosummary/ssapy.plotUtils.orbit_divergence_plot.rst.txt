@@ -1,0 +1,6 @@
+ssapy.plotUtils.orbit\_divergence\_plot
+=======================================
+
+.. currentmodule:: ssapy.plotUtils
+
+.. autofunction:: orbit_divergence_plot

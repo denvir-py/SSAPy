@@ -1,0 +1,27 @@
+ssapy.rvsampler.MVNormalProposal
+================================
+
+.. currentmodule:: ssapy.rvsampler
+
+.. autoclass:: MVNormalProposal
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~MVNormalProposal.__init__
+      ~MVNormalProposal.propose
+   
+   
+
+   
+   
+   

@@ -1,0 +1,27 @@
+ssapy.orbit.OrbitalObserver
+===========================
+
+.. currentmodule:: ssapy.orbit
+
+.. autoclass:: OrbitalObserver
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~OrbitalObserver.__init__
+      ~OrbitalObserver.getRV
+   
+   
+
+   
+   
+   

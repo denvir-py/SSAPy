@@ -1,0 +1,6 @@
+ssapy.utils.normed
+==================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: normed

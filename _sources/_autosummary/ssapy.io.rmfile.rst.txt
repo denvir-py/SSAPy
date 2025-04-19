@@ -1,0 +1,6 @@
+ssapy.io.rmfile
+===============
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: rmfile

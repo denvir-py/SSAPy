@@ -1,0 +1,6 @@
+ssapy.utils.get\_normed\_weights
+================================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: get_normed_weights

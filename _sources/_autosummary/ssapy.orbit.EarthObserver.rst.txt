@@ -1,0 +1,28 @@
+ssapy.orbit.EarthObserver
+=========================
+
+.. currentmodule:: ssapy.orbit
+
+.. autoclass:: EarthObserver
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~EarthObserver.__init__
+      ~EarthObserver.getRV
+      ~EarthObserver.sunAlt
+   
+   
+
+   
+   
+   

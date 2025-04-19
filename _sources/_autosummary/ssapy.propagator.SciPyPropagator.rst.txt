@@ -1,0 +1,26 @@
+ssapy.propagator.SciPyPropagator
+================================
+
+.. currentmodule:: ssapy.propagator
+
+.. autoclass:: SciPyPropagator
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~SciPyPropagator.__init__
+   
+   
+
+   
+   
+   

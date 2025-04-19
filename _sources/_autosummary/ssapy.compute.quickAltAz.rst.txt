@@ -1,0 +1,6 @@
+ssapy.compute.quickAltAz
+========================
+
+.. currentmodule:: ssapy.compute
+
+.. autofunction:: quickAltAz

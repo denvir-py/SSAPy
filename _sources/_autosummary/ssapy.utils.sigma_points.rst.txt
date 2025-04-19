@@ -1,0 +1,6 @@
+ssapy.utils.sigma\_points
+=========================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: sigma_points

@@ -1,0 +1,6 @@
+ssapy.io.merge\_dicts
+=====================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: merge_dicts

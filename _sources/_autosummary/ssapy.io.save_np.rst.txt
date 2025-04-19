@@ -1,0 +1,6 @@
+ssapy.io.save\_np
+=================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: save_np

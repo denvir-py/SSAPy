@@ -1,0 +1,26 @@
+ssapy.accel.Accel
+=================
+
+.. currentmodule:: ssapy.accel
+
+.. autoclass:: Accel
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~Accel.__init__
+   
+   
+
+   
+   
+   

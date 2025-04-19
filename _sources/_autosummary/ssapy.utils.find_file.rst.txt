@@ -1,0 +1,6 @@
+ssapy.utils.find\_file
+======================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: find_file

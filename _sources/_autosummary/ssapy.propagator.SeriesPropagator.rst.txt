@@ -1,0 +1,26 @@
+ssapy.propagator.SeriesPropagator
+=================================
+
+.. currentmodule:: ssapy.propagator
+
+.. autoclass:: SeriesPropagator
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~SeriesPropagator.__init__
+   
+   
+
+   
+   
+   

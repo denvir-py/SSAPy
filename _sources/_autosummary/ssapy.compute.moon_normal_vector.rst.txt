@@ -1,0 +1,6 @@
+ssapy.compute.moon\_normal\_vector
+==================================
+
+.. currentmodule:: ssapy.compute
+
+.. autofunction:: moon_normal_vector

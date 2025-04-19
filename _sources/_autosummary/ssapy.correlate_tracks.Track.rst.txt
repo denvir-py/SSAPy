@@ -1,0 +1,38 @@
+ssapy.correlate\_tracks.Track
+=============================
+
+.. currentmodule:: ssapy.correlate_tracks
+
+.. autoclass:: Track
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~Track.__init__
+      ~Track.addto
+      ~Track.gate
+      ~Track.gaussian_approximation
+      ~Track.predict
+      ~Track.propagaterdz
+      ~Track.update
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~Track.lnprob
+   
+   

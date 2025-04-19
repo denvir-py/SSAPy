@@ -1,0 +1,6 @@
+ssapy.utils.angle\_between\_vectors
+===================================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: angle_between_vectors

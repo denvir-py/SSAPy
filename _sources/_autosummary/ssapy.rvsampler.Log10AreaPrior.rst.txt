@@ -1,0 +1,26 @@
+ssapy.rvsampler.Log10AreaPrior
+==============================
+
+.. currentmodule:: ssapy.rvsampler
+
+.. autoclass:: Log10AreaPrior
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~Log10AreaPrior.__init__
+   
+   
+
+   
+   
+   

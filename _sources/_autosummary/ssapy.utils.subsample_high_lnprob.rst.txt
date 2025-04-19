@@ -1,0 +1,6 @@
+ssapy.utils.subsample\_high\_lnprob
+===================================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: subsample_high_lnprob

@@ -1,0 +1,6 @@
+ssapy.utils.sun\_ra\_dec
+========================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: sun_ra_dec

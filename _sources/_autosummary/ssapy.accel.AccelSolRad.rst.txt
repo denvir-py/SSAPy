@@ -1,0 +1,26 @@
+ssapy.accel.AccelSolRad
+=======================
+
+.. currentmodule:: ssapy.accel
+
+.. autoclass:: AccelSolRad
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~AccelSolRad.__init__
+   
+   
+
+   
+   
+   

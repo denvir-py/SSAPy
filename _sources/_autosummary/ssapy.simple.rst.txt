@@ -1,0 +1,41 @@
+﻿ssapy.simple
+============
+
+.. automodule:: ssapy.simple
+  
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :toctree:
+   
+      best_prop
+      fourbody_prop
+      get_similar_orbits
+      keplerian_prop
+      ssapy_kwargs
+      ssapy_orbit
+      ssapy_prop
+      threebody_prop
+   
+   
+
+   
+   
+   
+
+
+

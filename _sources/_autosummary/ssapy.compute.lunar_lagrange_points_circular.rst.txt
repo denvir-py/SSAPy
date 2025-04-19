@@ -1,0 +1,6 @@
+ssapy.compute.lunar\_lagrange\_points\_circular
+===============================================
+
+.. currentmodule:: ssapy.compute
+
+.. autofunction:: lunar_lagrange_points_circular

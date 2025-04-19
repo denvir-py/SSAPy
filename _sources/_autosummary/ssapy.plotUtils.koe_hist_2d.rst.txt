@@ -1,0 +1,6 @@
+ssapy.plotUtils.koe\_hist\_2d
+=============================
+
+.. currentmodule:: ssapy.plotUtils
+
+.. autofunction:: koe_hist_2d

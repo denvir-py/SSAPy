@@ -1,0 +1,6 @@
+ssapy.compute.calculate\_orbital\_elements
+==========================================
+
+.. currentmodule:: ssapy.compute
+
+.. autofunction:: calculate_orbital_elements

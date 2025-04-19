@@ -1,0 +1,6 @@
+ssapy.io.pdstr\_to\_arrays
+==========================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: pdstr_to_arrays

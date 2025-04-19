@@ -1,0 +1,26 @@
+ssapy.propagator.SGP4Propagator
+===============================
+
+.. currentmodule:: ssapy.propagator
+
+.. autoclass:: SGP4Propagator
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~SGP4Propagator.__init__
+   
+   
+
+   
+   
+   

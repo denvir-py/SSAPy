@@ -1,0 +1,6 @@
+ssapy.io.h5\_key\_exists
+========================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: h5_key_exists

@@ -1,0 +1,6 @@
+ssapy.io.b3obs2pos
+==================
+
+.. currentmodule:: ssapy.io
+
+.. autofunction:: b3obs2pos

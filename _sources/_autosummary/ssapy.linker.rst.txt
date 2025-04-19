@@ -1,0 +1,42 @@
+﻿ssapy.linker
+============
+
+.. automodule:: ssapy.linker
+  
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: class_template.rst
+   
+      BinarySelectorParams
+      Linker
+      ModelSelectorParams
+   
+   
+
+   
+   
+
+   .. inheritance-diagram:: ssapy.linker
+      :caption: Inheritance Relationship
+      :parts: -1
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

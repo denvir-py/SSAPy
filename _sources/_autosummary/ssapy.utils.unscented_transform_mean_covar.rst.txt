@@ -1,0 +1,6 @@
+ssapy.utils.unscented\_transform\_mean\_covar
+=============================================
+
+.. currentmodule:: ssapy.utils
+
+.. autofunction:: unscented_transform_mean_covar

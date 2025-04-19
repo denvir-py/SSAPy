@@ -1,0 +1,26 @@
+ssapy.accel.AccelDrag
+=====================
+
+.. currentmodule:: ssapy.accel
+
+.. autoclass:: AccelDrag
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~AccelDrag.__init__
+   
+   
+
+   
+   
+   

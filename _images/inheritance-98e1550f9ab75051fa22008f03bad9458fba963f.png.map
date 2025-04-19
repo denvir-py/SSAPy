@@ -1,0 +1,8 @@
+<map id="inheritancefe6938fb6e" name="inheritancefe6938fb6e">
+<area shape="rect" id="node1" href="ssapy.body.Body.html#ssapy.body.Body" target="_top" title="A celestial body." alt="" coords="43,252,133,277"/>
+<area shape="rect" id="node2" href="ssapy.body.EarthOrientation.html#ssapy.body.EarthOrientation" target="_top" title="Orientation of earth in GCRF. &#160;This is a callable class that returns the" alt="" coords="7,203,169,228"/>
+<area shape="rect" id="node3" href="ssapy.body.MoonOrientation.html#ssapy.body.MoonOrientation" target="_top" title="Orientation of moon in GCRF. &#160;This is a callable class that returns the" alt="" coords="5,153,171,179"/>
+<area shape="rect" id="node4" href="ssapy.body.MoonPosition.html#ssapy.body.MoonPosition" target="_top" title="Position of moon in GCRF. &#160;This is a callable class that returns the" alt="" coords="16,104,160,129"/>
+<area shape="rect" id="node5" href="ssapy.body.PlanetPosition.html#ssapy.body.PlanetPosition" target="_top" title="Position of a planet in GCRF. &#160;This is a callable class that returns the" alt="" coords="13,55,163,80"/>
+<area shape="rect" id="node6" href="ssapy.body.SunPosition.html#ssapy.body.SunPosition" target="_top" title="Position of sun in GCRF. &#160;This is a callable class that returns the" alt="" coords="22,5,154,31"/>
+</map>

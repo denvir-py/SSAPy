@@ -1,0 +1,10 @@
+<map id="inheritanceab8372fb07" name="inheritanceab8372fb07">
+<area shape="rect" id="node1" href="ssapy.accel.Accel.html#ssapy.accel.Accel" target="_top" title="Base class for accelerations." alt="" coords="5,153,100,179"/>
+<area shape="rect" id="node2" href="ssapy.accel.AccelConstNTW.html#ssapy.accel.AccelConstNTW" target="_top" title="Constant acceleration in NTW coordinates." alt="" coords="148,5,311,31"/>
+<area shape="rect" id="node3" href="ssapy.accel.AccelDrag.html#ssapy.accel.AccelDrag" target="_top" title="Acceleration due to atmospheric drag." alt="" coords="166,55,293,80"/>
+<area shape="rect" id="node4" href="ssapy.accel.AccelEarthRad.html#ssapy.accel.AccelEarthRad" target="_top" title="Acceleration due to Earth radiation pressure." alt="" coords="152,104,307,129"/>
+<area shape="rect" id="node5" href="ssapy.accel.AccelKepler.html#ssapy.accel.AccelKepler" target="_top" title="Keplerian acceleration. &#160;I.e., force is proportional to 1/|r|^2." alt="" coords="161,153,297,179"/>
+<area shape="rect" id="node6" href="ssapy.accel.AccelProd.html#ssapy.accel.AccelProd" target="_top" title="Acceleration defined as the product of an acceleration with a constant factor." alt="" coords="167,203,291,228"/>
+<area shape="rect" id="node7" href="ssapy.accel.AccelSolRad.html#ssapy.accel.AccelSolRad" target="_top" title="Acceleration due to solar radiation pressure." alt="" coords="159,252,299,277"/>
+<area shape="rect" id="node8" href="ssapy.accel.AccelSum.html#ssapy.accel.AccelSum" target="_top" title="Acceleration defined as the sum of other accelerations." alt="" coords="167,301,291,327"/>
+</map>

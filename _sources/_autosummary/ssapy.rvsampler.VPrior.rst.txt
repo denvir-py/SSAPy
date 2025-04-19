@@ -1,0 +1,26 @@
+ssapy.rvsampler.VPrior
+======================
+
+.. currentmodule:: ssapy.rvsampler
+
+.. autoclass:: VPrior
+   :members:
+   :show-inheritance:
+   :private-members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~VPrior.__init__
+   
+   
+
+   
+   
+   

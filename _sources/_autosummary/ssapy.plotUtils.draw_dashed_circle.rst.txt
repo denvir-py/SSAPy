@@ -1,0 +1,6 @@
+ssapy.plotUtils.draw\_dashed\_circle
+====================================
+
+.. currentmodule:: ssapy.plotUtils
+
+.. autofunction:: draw_dashed_circle
